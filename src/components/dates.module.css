@@ -1,0 +1,13 @@
+.dates {
+  padding: 8px;;
+  background: #000;
+  color: white;
+  font-size: 14px;
+}
+.dates > .monthAndDates {
+  margin-top: 4px;
+  font-size: 21px;
+}
+.dates > .monthAndDates > .days {
+  margin-left: 4px;
+}
